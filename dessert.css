@@ -135,7 +135,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('image/font.jpg');
+    background: url('image/image/font.jpg');
     background-size: cover;
     color: aliceblue;
     padding: 40px;
